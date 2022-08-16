@@ -21,7 +21,7 @@ const Info =styled.div`
 const Container = styled.div`
     flex:1;
     margin: 5px;
-    min-width: 300px;
+    min-width: 500px;
     height:600px;
     display: flex;
     align-items: center;
@@ -45,7 +45,7 @@ position: absolute;
    
 `
 const Desc = styled.p`
-    font-size:13px;
+    font-size:17px;
   text-align: center;
   
     text-align: justify;
@@ -53,15 +53,15 @@ const Desc = styled.p`
   
 `
 const Img =styled.img`
-height: 70%;
-width: 300px;
+height: 85%;
+width: 400px;
 z-index: 2;
  
 `
 
 const Icon =styled.div`
-    width: 270px;
-    height: 30px;
+    width: 350px;
+    height: 40px;
     align-items: baseline;
     background-color: white;
     display: block;

@@ -44,7 +44,7 @@ const Input = styled.input`
 `;
 const Logo = styled.h1`
   font-weight: lighter;
-  font-size: 30px;
+  font-size: 40px;
 `;
 const Center = styled.div`
   flex: 1;
